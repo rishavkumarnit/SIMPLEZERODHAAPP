@@ -22,5 +22,3 @@ assets/            - Folder for images or logos (optional)
 
 ## 🛠️ Getting Started
 
-### 1. Clone the Repository
-
